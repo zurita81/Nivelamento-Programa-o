@@ -2,4 +2,12 @@ body{
 
     background-color: #00BFFF;
     color: black;
+
 }
+
+.carnaval{
+
+     display: flex;
+      font-size: medium;  
+   }
+
